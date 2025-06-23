@@ -1,0 +1,67 @@
+# Build Results
+bin/
+obj/
+out/
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# NuGet packages (if not using PackageReference)
+packages/
+*.nupkg
+
+# Dotnet CLI artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish folder
+wwwroot/
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# Entity Framework Migrations History
+Migrations/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Resharper
+*.DotSettings.user
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Others
+*.db
+*.pidb
+*.svclog
+*.psess
+*.vsp
+*.pdb
+*.cache
+*.scc
+*.orig
+*.vsidx
+
+# Optional: Include this if you're using SQLite
+*.sqlite
+*.db-shm
+*.db-wal
